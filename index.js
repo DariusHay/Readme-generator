@@ -27,7 +27,7 @@ ${answers.test}
 
 ## License
 
-[![License badge](https://img.shields.io/badge/${answers.license}-green.svg)]
+![License badge](https://img.shields.io/badge/${answers.license}-2.0-green.svg)
 
 ## Questions
 
