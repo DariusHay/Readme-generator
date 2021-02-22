@@ -33,7 +33,7 @@ dgusi
 
 ## License
 
-![License badge](https://img.shields.io/badge/Boost-Software-2.0-green.svg)
+![License badge](https://img.shields.io/badge/BSD-2.0-green.svg)
 
 ## Questions
 
