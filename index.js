@@ -9,6 +9,15 @@ ${answers.title}
 
 ${answers.description}
 
+## Table of Content
+
+1. [Installation requirements](#installation)
+2. [Usage info](#usage)
+3. [Contributions](#contributing)
+4. [Tests](#tests)
+5. [License](#license)
+6. [Questions](questions)
+
 ## Installation
 
 ${answers.installations}
@@ -68,9 +77,8 @@ inquirer
         type: 'list',
         name: 'license',
         message: 'Please select the license for the app',
-        choices: ["MIT","Apache"]
+        choices: ["MIT","Apache", 'GNU General Public', 'Boost Software', 'Mozilla Public']
     },
-    // this is where the list to choose a license will be inserted.
     {
         type: 'input',
         name: 'github',
