@@ -16,7 +16,7 @@ ${answers.description}
 3. [Contributions](#contributing)
 4. [Tests](#tests)
 5. [License](#license)
-6. [Questions](questions)
+6. [Questions](#questions)
 
 ## Installation
 
@@ -77,7 +77,7 @@ inquirer
         type: 'list',
         name: 'license',
         message: 'Please select the license for the app',
-        choices: ["MIT","Apache", 'GNU General Public', 'Boost Software', 'Mozilla Public']
+        choices: ["MIT","Apache", 'GPL', 'BSD', 'MPL']
     },
     {
         type: 'input',

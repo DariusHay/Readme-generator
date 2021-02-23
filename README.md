@@ -1,10 +1,10 @@
 ## Project Title
 
-aps
+Readme Generator
 
 ## Description
 
-shif
+This is an application that generates a professional Readme file for the user. The user is prompted with various questions concerning his/her project, and based off of their input, a Readme file is generated.
 
 ## Table of Content
 
@@ -17,24 +17,26 @@ shif
 
 ## Installation
 
-dhu
+The only installation that was used to create this application was 'Inquirer.'
 
 ## Usage
 
-dhi
+This Readme generator is used by the user entering the content that will be generated. This is a link to an example video of how this application is used.
+
+https://drive.google.com/file/d/1ibQzHOQm1egf0-6Agpfx9-xFfla8U28o/view?usp=sharing
 
 ## Contributing
 
-dgusi
+I solely created this application.
 
 ## Tests
 
-dgusi
+Tests can be created to make sure the functions run correctly in this application.
 
 ## License
 
-![License badge](https://img.shields.io/badge/BSD-2.0-green.svg)
+![License badge](https://img.shields.io/badge/MIT-2.0-green.svg)
 
 ## Questions
 
-If you have any additional questions about this project, you can find me on GitHub at ghjk https://github.com/ghjk, or you can email me at fdsa, thank you.
+If you have any additional questions about this project, you can find me on GitHub at DariusHay https://github.com/DariusHay, or you can email me at dariushay@gmail.com, thank you.
