@@ -10,7 +10,7 @@ This is an application that generates a professional Readme file for the user. T
 
 1. [Installation requirements](#installation)
 2. [Usage info](#usage)
-3. [Contributions](#contributing)
+3. [Contributions](#contributions)
 4. [Tests](#tests)
 5. [License](#license)
 6. [Questions](#questions)
@@ -25,9 +25,9 @@ This Readme generator is used by the user entering the content that will be gene
 
 https://drive.google.com/file/d/1ibQzHOQm1egf0-6Agpfx9-xFfla8U28o/view?usp=sharing
 
-## Contributing
+## Contributions
 
-I solely created this application.
+Darius Hay https://github.com/DariusHay
 
 ## Tests
 
