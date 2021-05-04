@@ -9,7 +9,7 @@ This is an application that generates a professional Readme file for the user. T
 ## Table of Content
 
 1. [Installation requirements](#installation)
-2. [Usage info](#usage)
+2. [Video of Usage](#usage)
 3. [Contributions](#contributions)
 4. [Tests](#tests)
 5. [License](#license)
